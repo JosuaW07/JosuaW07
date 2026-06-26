@@ -53,3 +53,19 @@ I am an IMS pupil passionate about learning software development, system enginee
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+### 📂 Featured Projects
+
+* **[🕹️ React Tetris Clone](https://github.com/JosuaW07/Tetris)**
+  * *Description:* A fully functional classic Tetris game built from scratch using React.
+  * *Tech Stack:* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+  
+
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosuaW07&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuaW07&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
